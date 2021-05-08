@@ -1,1 +1,2 @@
 
+jaeles scan -c 50 -s /home/emre/.jaeles/base-signatures/js-xss.yaml -U par2.txt
