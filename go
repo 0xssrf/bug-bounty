@@ -376,3 +376,32 @@ https://play.golang.org/p/r8oSG8DIPR
 https://play.golang.org/p/ql90D1OQqd
 https://play.golang.org/p/jz_llY1aPp
 https://play.golang.org/p/8RKkdtLl6w
+
+#concurrency
+
+concurrency vs parallelism
+
+waitgroup
+
+https://play.golang.org/p/bnI0akWF9f
+https://play.golang.org/p/VDioqpZ65h
+
+method sets revisited
+https://play.golang.org/p/KK8gjsAWBZ
+
+documentation
+https://play.golang.org/p/lBKFKCwrue
+
+race condition
+https://play.golang.org/p/FYGoflKQej
+
+mutex
+atomic
+
+https://github.com/GoesToEleven/golang-web-dev/tree/master/000_temp/52-race-condition
+
+ninja level
+
+https://github.com/GoesToEleven/go-programming
+https://play.golang.org/p/FAwcQbNtMG
+https://play.golang.org/p/FYGoflKQej
