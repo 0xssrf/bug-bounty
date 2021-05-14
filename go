@@ -211,6 +211,7 @@ https://play.golang.org/p/TYl5EbjoeC
 
 #STRUCT
 https://golang.org/ref/spec#Struct_types
+https://golang.org/doc/faq#Is_Go_an_object-oriented_language
 
 https://play.golang.org/p/hNI_rSK-C6
 embedded structs
