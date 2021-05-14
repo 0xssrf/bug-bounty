@@ -101,3 +101,123 @@ https://play.golang.org/p/Ms964T8SbH #shifts the bits
 https://play.golang.org/p/dLy36A-V-w #raw string literal
 https://play.golang.org/p/MDLF3v5EGT #iota
 https://docs.google.com/forms/d/e/1FAIpQLSfjhxXjo0r_OsVys58B1lVs35CLPpneVcjiEKTPsLuQs4mftA/viewform?usp=send_form
+
+#CONTROL FLOW
+for
+https://play.golang.org/p/A0GUGbqi9_
+https://play.golang.org/p/Wp5cT2IaMx
+nested loops
+https://play.golang.org/p/0N-eThFPVZ
+https://play.golang.org/p/RVSKbHUQLb
+just for
+https://play.golang.org/p/egX34wR3wX
+https://play.golang.org/p/IsqvsdiIBH
+loop break,continue
+https://play.golang.org/p/_BNQa7c8d8
+https://play.golang.org/p/uqh2SDENAE
+printing ascii
+https://play.golang.org/p/SnzlisWesT
+https://play.golang.org/p/BzCszCBEn7W
+
+decimal value with %d
+hex value with %#x
+unicode code point with %#U
+a tab with \t
+a new line with \n
+
+conditional-if
+https://play.golang.org/p/vz-qKTA7a2
+https://play.golang.org/p/CxpQu6fLzN
+https://play.golang.org/p/RRxtR_QTd3
+https://play.golang.org/p/4_E3QSKox0
+https://play.golang.org/p/YsNIxfikEq
+
+switch case fallthrough multiple
+https://play.golang.org/p/BFRFxQKT9H
+https://play.golang.org/p/1EtC2k2rvX
+https://play.golang.org/p/0lOxS35E_e
+https://play.golang.org/p/-Ybc4TVwO4
+https://play.golang.org/p/hw35DavFFt
+https://play.golang.org/p/De_2ZfSaqN
+
+#conditional logic errors
+https://www.golang-book.com/books/intro/3
+https://play.golang.org/p/WQ8PjCCC42
+https://play.golang.org/p/ukFrlC66uv
+
+#ninja level 3
+https://play.golang.org/p/voDiuiDGGw
+https://play.golang.org/p/1OjnCX1D5H
+https://play.golang.org/p/tnyqBPJ-i5
+https://play.golang.org/p/9VpnB-I1Pz
+https://play.golang.org/p/ohfJOW9euy
+https://play.golang.org/p/DpZ_FLfn5s
+https://play.golang.org/p/IDnrJpE7vT
+https://play.golang.org/p/YpPgkWGqKY
+https://play.golang.org/p/h-8FnjpzWB
+
+fmt.Println(true && true) 
+fmt.Println(true && false) 
+fmt.Println(true || true) 
+fmt.Println(true || false) 
+fmt.Println(!true)
+
+#grouping data
+array
+https://golang.org/ref/spec#Array_types 
+https://play.golang.org/p/f-7aufl2DO
+
+slice
+https://golang.org/ref/spec#Slice_types 
+composite literal
+https://play.golang.org/p/XtUEPJFgqD
+for range
+https://play.golang.org/p/O7cCALNFsH
+slicing a slice
+https://play.golang.org/p/AXGTEEn92M
+append to a slice
+https://play.golang.org/p/oQnjP5Ka3F
+deleting from a slice
+https://play.golang.org/p/VTZ2Bof6bN
+make
+https://play.golang.org/p/07hH1b-hvD
+multi-dimensional slice
+https://play.golang.org/p/S4cyB89Zpm
+underlying array
+https://play.golang.org/p/XE9l_on3Va
+https://play.golang.org/p/Ah2t7mgTn4
+https://play.golang.org/p/NL8p7Z8R3E
+https://play.golang.org/p/GvEnKl3x-A
+
+map
+https://golang.org/ref/spec#Map_types 
+https://play.golang.org/p/TJajJyrUo5
+https://play.golang.org/p/RTuBRiW087
+https://play.golang.org/p/t5g_-8wgOL
+
+ninja level 4
+https://play.golang.org/p/tD0SzV3hdf
+https://play.golang.org/p/sAQeFB7DIs
+https://play.golang.org/p/SGfiULXzAB
+https://play.golang.org/p/QUYhtSBaDS
+https://play.golang.org/p/u8zpHLfgSE
+https://play.golang.org/p/tRKQDQuQCE //yanlış
+https://play.golang.org/p/dzxZh4lhEpT //doğru
+https://play.golang.org/p/FMM4c2PhZg
+https://play.golang.org/p/nTzSlRa9_A
+https://play.golang.org/p/_CkxAhRrDJ
+https://play.golang.org/p/TYl5EbjoeC
+
+
+
+
+
+
+
+
+
+
+
+
+struct
+https://golang.org/ref/spec#Struct_types
