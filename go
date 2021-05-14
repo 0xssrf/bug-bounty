@@ -318,4 +318,61 @@ https://play.golang.org/p/a56uWtoFSL
 öğrenmenin en iyi yolu öğretmektir.
 https://obsproject.com/
 
+#pointers
 
+code from video: https://play.golang.org/p/Ysv5Adn3V1 
+step 1 - take an address & : https://play.golang.org/p/BO7zRQN4Xm 
+step 2 - dereference * : https://play.golang.org/p/ucJYPu3QkP  
+step 3 - dereference * : https://play.golang.org/p/KpLImTmQCa 
+
+step 1 no pointer: https://play.golang.org/p/lxsWkhTaYv 
+step 2 pointer: https://play.golang.org/p/XuI19kjFmb  
+
+NON-POINTER RECEIVER & NON-POINTER VALUE
+https://play.golang.org/p/2ZU0QX12a8
+NON-POINTER RECEIVER & POINTER VALUE
+https://play.golang.org/p/glWZmm0gY6 
+POINTER RECEIVER & POINTER VALUE
+https://play.golang.org/p/pWFxsg6MSe 
+POINTER RECEIVER & NON-POINTER VALUE
+https://play.golang.org/p/G3lEy-4Mc8 ( code does not run )
+this codes does run - notice the difference -  method set determines the INTERFACES that the type implements
+https://play.golang.org/p/KK8gjsAWBZ 
+
+ninja level 7
+
+https://play.golang.org/p/57kW8xd0qT
+https://golang.org/ref/spec#Selectors
+https://play.golang.org/p/AehM662HKS
+json documentation
+https://play.golang.org/p/jtE_n16cQO
+
+json unmarshal
+https://mholt.github.io/json-to-go/
+https://cdn.rawgit.com/GoesToEleven/golang-web-dev/17e3852d/040_json/README.html
+https://play.golang.org/p/O9q0DmpzsZ
+
+writer interface
+https://play.golang.org/p/3Txh-dKQBf
+
+sort
+https://play.golang.org/p/igIGnMv6AN
+https://play.golang.org/p/8UkvEdzQOk
+
+sort custom
+https://play.golang.org/p/UhXN-G2FwY
+https://play.golang.org/p/kqmJovOU5V
+https://play.golang.org/p/he70VcFmdM
+
+bcrypt
+https://goo.gl/ZVKnRx
+
+ninja Level 8
+https://play.golang.org/p/8BK6PXj3aG
+
+https://play.golang.org/p/nWPP5Z2Q4e
+https://play.golang.org/p/r8oSG8DIPR
+
+https://play.golang.org/p/ql90D1OQqd
+https://play.golang.org/p/jz_llY1aPp
+https://play.golang.org/p/8RKkdtLl6w
