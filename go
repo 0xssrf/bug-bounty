@@ -209,15 +209,30 @@ https://play.golang.org/p/_CkxAhRrDJ
 https://play.golang.org/p/TYl5EbjoeC
 
 
-
-
-
-
-
-
-
-
-
-
-struct
+#STRUCT
 https://golang.org/ref/spec#Struct_types
+
+https://play.golang.org/p/hNI_rSK-C6
+embedded structs
+https://play.golang.org/p/u6b3qTr1CH
+reading documentation
+https://play.golang.org/p/KkV2YNuQit
+anonymous structs
+https://play.golang.org/p/O7DiZX_e1R
+housekeeping
+https://play.golang.org/p/eQP7I3dW_r
+
+ninja level 5
+https://play.golang.org/p/ouRHmH_POg
+https://play.golang.org/p/RvvLyAMvGo
+https://play.golang.org/p/PrTtTv_vVO
+https://play.golang.org/p/otBHFs-lPp
+
+
+
+
+
+
+
+
+
