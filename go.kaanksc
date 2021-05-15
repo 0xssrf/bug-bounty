@@ -1,0 +1,92 @@
+### BÖLÜM 1
+
+hello world:
+https://play.golang.org/p/H2TxX26DMeD
+package:
+https://play.golang.org/p/C9zHmfsGyoz
+comment line:
+https://play.golang.org/p/MtsGfAb7U7X
+data types:
+
+aritmatik operators:
+https://play.golang.org/p/ljLttNvGjEx
+ilişkisel operators:
+== , != , < , > , <= , >=
+mantıksal operatorler:
+https://play.golang.org/p/ttZ0-eJuWYU
+atama operatorleri:
+=,+=,-=,*=,/=,%=
+değişkenlerin atanması:
+https://play.golang.org/p/vCtG6zlbVnO
+const:
+https://play.golang.org/p/6bqhs5-XmEh
+kod gruplama işlemi:
+https://play.golang.org/p/jjWzdUGKwp0
+tür dönüşümü:
+https://go.kaanksc.com/boeluem-1/tuer-doenuesuemue
+
+### BÖLÜM 2
+function:
+https://play.golang.org/p/m-3ZlkC0OXz
+https://play.golang.org/p/E6xvGQqn_v2
+https://play.golang.org/p/lBjs4KS8lbJ
+https://play.golang.org/p/qh6JwydbHPk
+function types:
+https://play.golang.org/p/WJE78682mL5
+https://play.golang.org/p/T315uS78z20
+https://play.golang.org/p/eqlJ8-tk_iL
+https://play.golang.org/p/4Vss7LIZv8-
+anonim functions:
+https://play.golang.org/p/ms016NKWBaT
+multi,blank return
+https://play.golang.org/p/ZAVi09psC5B
+https://play.golang.org/p/lH_bE2ITEs5
+döngüler:
+https://play.golang.org/p/cHad404WCUq
+https://play.golang.org/p/ZOMNo8X6Ycq
+if-else:
+https://play.golang.org/p/HZSCa5s8tAv
+https://play.golang.org/p/tmftMtcGkdb
+switch
+https://play.golang.org/p/dONhcPGYctn
+https://play.golang.org/p/ZDDe6t8yoyl
+https://play.golang.org/p/TAZ5SbxnWss
+https://play.golang.org/p/kgb0ktOtbQK
+defer
+https://play.golang.org/p/m7pxB5NUSay
+https://play.golang.org/p/aCkq2Bc_SdS
+https://play.golang.org/p/gd_e1KAbkri
+pointers
+https://play.golang.org/p/K5aNaMVEj05
+
+##BÖLÜM 3
+struct
+https://play.golang.org/p/J8PWwPCNKKZ
+anonim struct
+https://play.golang.org/p/OsdJNGcfLQv
+https://play.golang.org/p/KMCx4YaaIrO
+struct functions
+https://play.golang.org/p/WR78SROOk15
+arrays
+https://play.golang.org/p/QVJcbvsc6DA
+slices
+https://play.golang.org/p/9sTqN02KHIB
+https://play.golang.org/p/zMcUZ3RLEX0
+https://play.golang.org/p/YjsWKBKnxaP
+https://play.golang.org/p/9uzbWVKrHrZ
+https://play.golang.org/p/8q-RcAqZv7Z
+range
+https://play.golang.org/p/6ILVerw9vE3
+https://play.golang.org/p/sEm4wJcs1ZV
+map
+https://play.golang.org/p/imvIXXVmzVR
+https://play.golang.org/p/Mhs4zhXFomX
+https://play.golang.org/p/-uPtC65p2yZ
+interface(arayüz)
+https://play.golang.org/p/RLNDxiUxFip
+
+
+
+
+
+
