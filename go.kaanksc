@@ -85,6 +85,7 @@ https://play.golang.org/p/-uPtC65p2yZ
 interface(arayüz)
 https://play.golang.org/p/RLNDxiUxFip
 
+
 ###BÖLÜM 4
 goroutine
 https://play.golang.org/p/6FpXqNzVkwY
@@ -98,6 +99,125 @@ https://play.golang.org/p/GevxvqPuZvm
 waitgroup
 https://play.golang.org/p/XauQ_Y2LSvd
 mutex
+https://play.golang.org/p/zrW8re67xG9
+tickers(zamanlayıcılar)
+https://play.golang.org/p/687S8zfKtV8
+select
+https://play.golang.org/p/I8Irqc1NYf6
+
+###BÖLÜM 5
+init
+https://play.golang.org/p/YTiCNwQye6Y
+https://play.golang.org/p/X98vnDxddtS
+https://play.golang.org/p/hkI9ttuTKxa
+import
+https://play.golang.org/p/vModCZwA_-f
+export
+https://play.golang.org/p/0xF5I5EtDE6
+print
+https://play.golang.org/p/ZHO6WuA8KmL
+format ve escape karakterleri
+https://play.golang.org/p/oUw5JZynhC-
+çok satırlı string oluşturma
+https://play.golang.org/p/gGov4u47WSx
+sprintf
+https://play.golang.org/p/RMdlaFyQYyr
+kullanıcıdan veri alma
+https://play.golang.org/p/-knrZRlV4jF
+testing
+https://play.golang.org/p/VghTsaqbTxL
+https://play.golang.org/p/Cq_gVTfvJ_0
+panic & recover
+https://play.golang.org/p/VrxZt-A6IDG
+https://play.golang.org/p/5TzaNtfcQ8K
+https://play.golang.org/p/kiXhsPiHh_B
+
+###BÖLÜM 6
+strings
+https://play.golang.org/p/Fho4WnUt6Qa
+https://play.golang.org/p/MOaIu26OBvc
+os/exec
+https://play.golang.org/p/4jKaAf84GnT
+https://play.golang.org/p/dGEZPLWuOCn
+https://play.golang.org/p/-wVbowkxczN
+args
+https://play.golang.org/p/_--fb45JE4R
+flags
+https://play.golang.org/p/fNvlIjSTZ4L
+os/signal
+https://play.golang.org/p/ABDDRq1Cau4
+https://play.golang.org/p/V65lYmTijRu
+sort
+https://play.golang.org/p/kuoqV6TDYLx
+strconv
+https://play.golang.org/p/VtlaeoLi1r7
+log(kayıt)
+https://play.golang.org/p/i9PMmCGYJ8l
+paket kütüphane yazmak
+https://play.golang.org/p/-OetCrIaUOP
+https://ceaksan.com/tr/regex-regular-expressions-nedir
+
+###BÖLÜM 7
+dosya yolları
+https://play.golang.org/p/32MdAbSUkP7
+işletim sistemi öğrenme
+https://play.golang.org//V67Tq0HxBNw
+dosya var mı?
+https://play.golang.org/p/3ORveZj-0qg
+ioutil ile dosya yazzma ve okuma
+https://play.golang.org/p/aAsUz_xHJ6G
+https://play.golang.org/p/dt4-neI3YYq
+dizindeki dosya ve klasörleri listeleme
+https://play.golang.org/p/3XbnH_C-iIK
+xml parsing
+https://play.golang.org/p/Xs9NEAjImJU
+https://play.golang.org/p/fAUf_ZaunNA
+json parsing
+https://play.golang.org/p/K6C6qnPAlwd
+https://play.golang.org/p/ed0O8tAMv6g
+https://play.golang.org/p/YDY7cRs-mGV
+https://play.golang.org/p/6szg8K0JuGB
+https://play.golang.org/p/G2Gu7QEM0eE
+dinamik json parsing
+https://play.golang.org/p/s72kSp1rOy6
+https://play.golang.org/p/bIh7h6IM42A
+https://play.golang.org/p/Y4OqzJQsIfM
+https://play.golang.org/p/LTe16KyVnfF
+ini dosyası okuma ve düzenleme
+https://play.golang.org/p/kFSPqG-Ifvu
+https://play.golang.org/p/LFrTjIu04Zb
+web scrapper
+https://play.golang.org/p/oY6hLtVYHAz
+chromedp(web driver)
+https://play.golang.org/p/y-MKL_NppR3
+https://play.golang.org/p/osrvtVyUCZz
+
+###VERİTABANI
+sqlite3
+https://play.golang.org/p/73bZifcCTvX
+https://play.golang.org/p/vebPhdZmXgg
+https://play.golang.org/p/djhbgjKOVq3
+https://play.golang.org/p/54I5gr187Rj
+https://play.golang.org/p/A95brv-EJL9
+https://play.golang.org/p/AS-H9LzeMKH
+https://play.golang.org/p/NJO0g6Avl2Y
+mysql
+https://play.golang.org/p/iQtdN_-ghpm
+https://play.golang.org/p/GFUaEKOU6G6
+https://play.golang.org/p/9CgMvWljuFe
+...
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
